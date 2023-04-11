@@ -24,6 +24,6 @@ Only these 6 column used for prediction
 
 #### Here is the Linear Regreesion result !
 
-![image](https://user-images.githubusercontent.com/111190076/231294460-734d905a-4084-427a-be86-ec1521234d95.png)
+![image](https://user-images.githubusercontent.com/111190076/231294668-f8497d21-eaf8-4112-9f4d-15fb15995265.png)
 
-% 97 Accuracy !
+### % 97 Accuracy !
